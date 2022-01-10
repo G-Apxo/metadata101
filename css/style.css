@@ -25,7 +25,9 @@
 /* 
 // 1. General
 */
-
+svg{
+  font-family: "Montserrat Alternates";
+}
 @font-face {
   font-family: MassEffect;
   src: url(../fonts/me123.ttf);
