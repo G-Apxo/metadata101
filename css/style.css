@@ -25,13 +25,39 @@
 /* 
 // 1. General
 */
+@font-face {font-family: "Neue Machina Ultrabold";
+  src: url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot");
+  src: url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot?#iefix") format("embedded-opentype"), 
+  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff2") format("woff2"), 
+  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff") format("woff"), 
+  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.ttf") format("truetype"),
+  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.svg#Neue Machina Ultrabold") format("svg"); 
+}
+
 a {
   text-decoration: none !important;
   outline: none;
 }
-
+.firsth1{
+font: normal normal 800 110px/110px "Neue Machina Ultrabold";
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.firsth2{
+  font: normal normal 800 98px/109px "Neue Machina Ultrabold";
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+.firsth3{
+    font: normal normal 800 79px/109px "Neue Machina Ultrabold";
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
 body {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Neue Machina Ultrabold";
   color: #3b3950;
   background: #ffffff;
   font-weight: 500;
@@ -42,7 +68,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Muli", sans-serif;
+  font-family: "Neue Machina Ultrabold";
   font-weight: 700;
 }
 
@@ -57,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   color: #3b3950;
   text-decoration: none;
-  font-family: "Muli", sans-serif;
+  font-family: "Neue Machina Ultrabold";
 }
 
 .navbar-custom {
@@ -1961,6 +1987,12 @@ textarea.form-control {
 .border-column{
   border: 1px solid black;
 }
+.border-column-costume{
+  border-left: none;
+}
+.border-column-costume-two{
+  border-right: none;
+}
 .bgbanner{
   background-image: url('../images/bannersecond.svg');
   background-size: contain;
@@ -1972,21 +2004,4 @@ textarea.form-control {
   margin-bottom: 87.5px;
   text-align: center;
 }
-.hero-1-title-1{
-font: normal normal 800 110px/110px Neue Machina;
-letter-spacing: 0px;
-color: #000000;
-opacity: 1;
-}
-.hero-1-title-2{
-  font: normal normal 800 98px/109px Neue Machina;
-  letter-spacing: 0px;
-  color: #000000;
-  opacity: 1;
-}
-.hero-1-title-3{
-    font: normal normal 800 79px/109px Neue Machina;
-    letter-spacing: 0px;
-    color: #000000;
-    opacity: 1;
-}
+.firsth1{
