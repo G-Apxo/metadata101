@@ -2034,6 +2034,7 @@ textarea.form-control {
 width: 52vh;
 }
 .main-banner-border{
+  margin-left: -2px;
   border-left: none;
   border-top: none;
   border-bottom: none;
