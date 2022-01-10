@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="283" height="77" viewBox="0 0 283 77">
+<defs>
+    <style>
 /* cyrillic-ext */
 @font-face {
   font-family: 'Inter';
@@ -603,13 +605,15 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+    </style>
+</defs>
   <g id="Group_57" data-name="Group 57" transform="translate(-1308 -905)">
     <g id="Rectangle_50" data-name="Rectangle 50" transform="translate(1311 982) rotate(-90)" fill="none" stroke="#de007e" stroke-width="2">
       <rect width="68" height="280" rx="4" stroke="none"/>
       <rect x="1" y="1" width="66" height="278" rx="3" fill="none"/>
     </g>
     <rect id="Rectangle_49" data-name="Rectangle 49" width="59" height="262" rx="4" transform="translate(1308 966) rotate(-90)" fill="#fff"/>
-    <text id="Powered_By" data-name="Powered By" transform="translate(1512 920)" fill="#de007e" font-size="16" font-family=" Montserrat Alternates" font-weight="800"><tspan x="-52.52" y="0">Powered By</tspan></text>
+    <text id="Powered_By" data-name="Powered By" transform="translate(1512 920)" fill="#de007e" font-size="16" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-52.52" y="0">Powered By</tspan></text>
     <g id="Group_45" data-name="Group 45" transform="translate(1336.325 934.161)">
       <g id="Group_41" data-name="Group 41" transform="translate(0 0)">
         <path id="Path_209" data-name="Path 209" d="M90.692,194a.763.763,0,1,0,.718.805A.762.762,0,0,0,90.692,194Z" transform="translate(-89.887 -178.538)"/>
