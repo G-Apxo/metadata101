@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="647" height="272" viewBox="0 0 647 272">
-  <g id="Group_34" data-name="Group 34" transform="translate(-595 -229)">
-    <g id="Group_8" data-name="Group 8" transform="translate(645 260.897)">
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="632.25" height="280" viewBox="0 0 632.25 280">
+  
+  <g id="Group_47" data-name="Group 47" transform="translate(2655.75 1231)">
+    <g id="Group_46" data-name="Group 46" transform="translate(-2605.75 -1206.103)">
       <g id="Group_6" data-name="Group 6" transform="translate(0 0.069)">
         <line id="Line_2" data-name="Line 2" x1="9.764" transform="translate(0.249 0.037)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
         <line id="Line_3" data-name="Line 3" x1="9.764" transform="translate(0.249 214.845)" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
@@ -42,32 +45,12 @@
         <line id="Line_22" data-name="Line 22" x2="555.464" transform="translate(7.594 214.808)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="1"/>
       </g>
     </g>
-    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(595 236)" stroke="#000" stroke-width="1">
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(-2655.75 -1231)" stroke="#000" stroke-width="1">
       <rect width="50" height="265" stroke="none"/>
-      <rect x="0.5" y="0.5" width="49" height="264" fill="none"/>
+      <rect x="0.5" y="0.5" width="49" height="265" fill="none"/>
     </g>
-    <text id="安定した工具投資" transform="translate(633 493) rotate(-90)" fill="#f3e600" font-size="33" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="0">安定した工具投資</tspan></text>
-    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(1212 435)" fill="#fff" stroke="#000" stroke-width="1">
-      <rect width="30" height="30" stroke="none"/>
-      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
-    </g>
-    <path id="Icon_awesome-discord" data-name="Icon awesome-discord" d="M10.566,8.646a.932.932,0,1,1-.928-1.01A.97.97,0,0,1,10.566,8.646Zm-4.25-1.01a1.014,1.014,0,0,0,0,2.02.97.97,0,0,0,.928-1.01A.964.964,0,0,0,6.316,7.636Zm9.611-5.761V18.2c-2.293-2.026-1.56-1.355-4.223-3.832l.482,1.684H1.866A1.87,1.87,0,0,1,0,14.18V1.875A1.87,1.87,0,0,1,1.866,0h12.2A1.87,1.87,0,0,1,15.927,1.875ZM13.333,10.5A12.188,12.188,0,0,0,12.023,5.2a4.5,4.5,0,0,0-2.557-.956l-.127.146A6.057,6.057,0,0,1,11.6,5.543a7.733,7.733,0,0,0-6.8-.264c-.337.155-.537.264-.537.264A6.14,6.14,0,0,1,6.662,4.35l-.091-.109A4.5,4.5,0,0,0,4.014,5.2,12.188,12.188,0,0,0,2.7,10.5a3.3,3.3,0,0,0,2.776,1.383s.337-.41.61-.755A2.831,2.831,0,0,1,4.5,10.057c.134.094.355.215.373.228a6.634,6.634,0,0,0,5.679.319,5.208,5.208,0,0,0,1.047-.537,2.872,2.872,0,0,1-1.647,1.083c.273.346.6.737.6.737A3.327,3.327,0,0,0,13.333,10.5Z" transform="translate(1218.786 441)"/>
-    <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(1212 389)" fill="#fff" stroke="#000" stroke-width="1">
-      <rect width="30" height="30" stroke="none"/>
-      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
-    </g>
-    <rect id="Rectangle_32" data-name="Rectangle 32" width="103" height="3" transform="translate(690 259)" fill="#fff"/>
-    <path id="Icon_awesome-github-square" data-name="Icon awesome-github-square" d="M14.221,2.25H1.706A1.707,1.707,0,0,0,0,3.956V16.471a1.707,1.707,0,0,0,1.706,1.706H14.221a1.707,1.707,0,0,0,1.706-1.706V3.956A1.707,1.707,0,0,0,14.221,2.25ZM9.858,15.891c-.3.053-.409-.132-.409-.284,0-.192.007-1.173.007-1.966a1.385,1.385,0,0,0-.4-1.091c1.315-.146,2.7-.327,2.7-2.6a1.825,1.825,0,0,0-.608-1.387,2.223,2.223,0,0,0-.06-1.6c-.494-.153-1.625.636-1.625.636a5.593,5.593,0,0,0-2.958,0s-1.131-.789-1.625-.636a2.206,2.206,0,0,0-.06,1.6A1.786,1.786,0,0,0,4.266,9.95c0,2.261,1.326,2.453,2.641,2.6a1.289,1.289,0,0,0-.377.793,1.247,1.247,0,0,1-1.717-.494,1.239,1.239,0,0,0-.907-.608c-.576-.007-.039.363-.039.363.384.178.654.86.654.86.345,1.056,1.994.7,1.994.7,0,.494.007,1.3.007,1.443s-.107.338-.409.284a5.9,5.9,0,0,1-3.989-5.628A5.642,5.642,0,0,1,7.885,4.522a5.768,5.768,0,0,1,5.909,5.742A5.844,5.844,0,0,1,9.858,15.891ZM6.371,13.719c-.068.014-.132-.014-.139-.06s.039-.1.107-.114.132.021.139.068S6.442,13.7,6.371,13.719Zm-.338-.032c0,.046-.053.085-.124.085s-.132-.032-.132-.085S5.83,13.6,5.9,13.6,6.033,13.634,6.033,13.687Zm-.487-.039c-.014.046-.085.068-.146.046s-.114-.068-.1-.114.085-.068.146-.053S5.564,13.6,5.546,13.648Zm-.437-.192c-.032.039-.1.032-.153-.021s-.068-.114-.032-.146.1-.032.153.021S5.141,13.427,5.109,13.456Zm-.324-.324c-.032.021-.092,0-.132-.053s-.039-.114,0-.139.1-.007.132.046A.1.1,0,0,1,4.785,13.132Zm-.231-.345c-.032.032-.085.014-.124-.021s-.046-.1-.014-.124.085-.014.124.021S4.586,12.763,4.554,12.787Zm-.238-.263a.067.067,0,0,1-.1.014c-.046-.021-.068-.06-.053-.092a.084.084,0,0,1,.1-.014C4.309,12.457,4.33,12.5,4.316,12.524Z" transform="translate(1218.786 393.75)"/>
-    <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(1212 343)" fill="#fff" stroke="#000" stroke-width="1">
-      <rect width="30" height="30" stroke="none"/>
-      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
-    </g>
-    <path id="Icon_awesome-twitter-square" data-name="Icon awesome-twitter-square" d="M14.221,2.25H1.706A1.707,1.707,0,0,0,0,3.956V16.471a1.707,1.707,0,0,0,1.706,1.706H14.221a1.707,1.707,0,0,0,1.706-1.706V3.956A1.707,1.707,0,0,0,14.221,2.25ZM12.482,7.9c.007.1.007.2.007.3a6.589,6.589,0,0,1-6.634,6.634,6.6,6.6,0,0,1-3.58-1.045,4.912,4.912,0,0,0,.562.028,4.675,4.675,0,0,0,2.894-1A2.335,2.335,0,0,1,3.552,11.2,2.513,2.513,0,0,0,4.6,11.159,2.332,2.332,0,0,1,2.737,8.87V8.841a2.33,2.33,0,0,0,1.052.3A2.327,2.327,0,0,1,2.752,7.2a2.3,2.3,0,0,1,.316-1.177A6.62,6.62,0,0,0,7.875,8.457a2.337,2.337,0,0,1,3.978-2.13,4.569,4.569,0,0,0,1.479-.562,2.326,2.326,0,0,1-1.024,1.283,4.64,4.64,0,0,0,1.344-.363A4.908,4.908,0,0,1,12.482,7.9Z" transform="translate(1218.786 347.75)"/>
-    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(1212 297)" fill="#fff" stroke="#000" stroke-width="1">
-      <rect width="30" height="30" stroke="none"/>
-      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
-    </g>
-    <path id="Icon_awesome-facebook-square" data-name="Icon awesome-facebook-square" d="M14.221,2.25H1.706A1.706,1.706,0,0,0,0,3.956V16.471a1.706,1.706,0,0,0,1.706,1.706H6.586V12.762H4.346V10.213h2.24V8.271a3.111,3.111,0,0,1,3.33-3.43,13.569,13.569,0,0,1,1.974.172V7.182H10.778A1.274,1.274,0,0,0,9.341,8.559v1.655h2.445L11.4,12.762H9.341v5.415h4.879a1.706,1.706,0,0,0,1.706-1.706V3.956A1.706,1.706,0,0,0,14.221,2.25Z" transform="translate(1218.786 301.75)"/>
-    <text id="coming_soon" data-name="coming soon" transform="translate(688 265)" fill="#de007e" font-size="16" font-family="Helvetica"><tspan x="0" y="0">coming soon</tspan></text>
+    <text id="Access_New_Levels_Of_Liquidity" data-name="Access New Levels Of Liquidity" transform="translate(-2357.75 -955)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold, Neue Machina" font-weight="700"><tspan x="0" y="0">Access New Levels Of Liquidity</tspan></text>
+    <text id="安定した工具投資" transform="translate(-2617.75 -974) rotate(-90)" fill="#f3e600" font-size="33" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">安定した工具投資</tspan></text>
+    <text id="coming_soon" data-name="coming soon" transform="translate(-2562.75 -1202)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold, Neue Machina" font-weight="700"><tspan x="0" y="0">coming soon</tspan></text>
   </g>
 </svg>
