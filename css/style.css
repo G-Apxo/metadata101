@@ -35,24 +35,30 @@ a {
 
 }
 .firsth1{
-font: normal normal 800 110px/110px "Montserrat Alternates";
-font: bolder;
+
+font-size: 110px;
+font-family: "Montserrat Alternates";
+font-weight: 800;
 letter-spacing: 0px;
 color: #000000;
 opacity: 1;
 line-height: 15vh;
 }
 .firsth2{
-  font: normal normal 800 98px/109px "Montserrat Alternates";
-  font: bolder;
+
+  font-size: 110px;
+  font-family: "Montserrat Alternates";
+  font-weight: 800;
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
   line-height: 9vh;
 }
 .firsth3{
-    font: normal normal 800 79px/109px "Montserrat Alternates";
-    font: bolder;
+
+    font-size: 96px;
+    font-family: "Montserrat Alternates";
+    font-weight: 800;
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
