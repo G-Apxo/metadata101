@@ -2037,3 +2037,15 @@ textarea.form-control {
 .banner-cat{
 width: 52vh;
 }
+.main-banner-border{
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+}
+.img-tag-border{
+  border-top: none;
+  border-bottom: none;
+}
+.cat-banner-border{
+  border-bottom: none;
+}
