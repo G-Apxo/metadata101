@@ -38,6 +38,9 @@ a {
   text-decoration: none !important;
   outline: none;
 }
+#Access_New_Levels_Of_Liquidity{
+  font: normal normal 800 110px/110px "Neue Machina Ultrabold";
+}
 .firsth1{
 font: normal normal 800 110px/110px "Neue Machina Ultrabold";
 letter-spacing: 0px;
@@ -2006,6 +2009,7 @@ textarea.form-control {
   border-right: none;
 }
 .bgbanner{
+  font-family: "Neue Machina Ultrabold";
   background-image: url('../images/bannersecond.svg');
   background-size: contain;
   background-repeat: no-repeat;

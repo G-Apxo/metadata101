@@ -1,7 +1,6 @@
 
 
 <svg xmlns="http://www.w3.org/2000/svg" width="632.25" height="280" viewBox="0 0 632.25 280">
-  
   <g id="Group_47" data-name="Group 47" transform="translate(2655.75 1231)">
     <g id="Group_46" data-name="Group 46" transform="translate(-2605.75 -1206.103)">
       <g id="Group_6" data-name="Group 6" transform="translate(0 0.069)">
@@ -49,8 +48,11 @@
       <rect width="50" height="265" stroke="none"/>
       <rect x="0.5" y="0.5" width="49" height="265" fill="none"/>
     </g>
-    <text id="Access_New_Levels_Of_Liquidity" data-name="Access New Levels Of Liquidity" transform="translate(-2357.75 -955)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold, Neue Machina" font-weight="700"><tspan x="0" y="0">Access New Levels Of Liquidity</tspan></text>
-    <text id="安定した工具投資" transform="translate(-2617.75 -974) rotate(-90)" fill="#f3e600" font-size="33" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">安定した工具投資</tspan></text>
-    <text id="coming_soon" data-name="coming soon" transform="translate(-2562.75 -1202)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold, Neue Machina" font-weight="700"><tspan x="0" y="0">coming soon</tspan></text>
+    <defs>
+</defs>
+
+    <text id="Access_New_Levels_Of_Liquidity" data-name="Access New Levels Of Liquidity" transform="translate(-2357.75 -955)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold" font-weight="700"><tspan x="0" y="0">Access New Levels Of Liquidity</tspan></text>
+    <text id="安定した工具投資" transform="translate(-2617.75 -974) rotate(-90)" fill="#f3e600" font-size="31" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">安定した工具投資</tspan></text>
+    <text id="coming_soon" data-name="coming soon" transform="translate(-2562.75 -1202)" fill="#de007e" font-size="16" font-family="Neue Machina Ultrabold" font-weight="700"><tspan x="0" y="0">coming soon</tspan></text>
   </g>
 </svg>
