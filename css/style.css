@@ -35,8 +35,7 @@ a {
 
 }
 .firsth1{
-
-font-size: 110px;
+font-size: 15vh;
 font-family: "Montserrat Alternates";
 font-weight: 800;
 letter-spacing: 0px;
@@ -45,8 +44,7 @@ opacity: 1;
 line-height: 15vh;
 }
 .firsth2{
-
-  font-size: 110px;
+  font-size: 14vh;
   font-family: "Montserrat Alternates";
   font-weight: 800;
   letter-spacing: 0px;
@@ -55,8 +53,7 @@ line-height: 15vh;
   line-height: 9vh;
 }
 .firsth3{
-
-    font-size: 96px;
+    font-size: 12vh;
     font-family: "Montserrat Alternates";
     font-weight: 800;
     letter-spacing: 0px;
