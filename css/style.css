@@ -26,6 +26,10 @@
 // 1. General
 */
 
+@font-face {
+  font-family: MassEffect;
+  src: url(../fonts/me123.ttf);
+}
 a {
   text-decoration: none !important;
   outline: none;
@@ -102,8 +106,9 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .logo-dark {
-  height: 53px;
+  height: 60px;
   width: 100px;
+  margin-left: 1vh;
 }
 .bg-logo{
   margin-right: 3px;
@@ -2049,4 +2054,13 @@ width: 52vh;
 }
 .cat-banner-border{
   border-bottom: none;
+}
+.text-logo{
+  text-align: center;
+  letter-spacing: 0px;
+  color: #F3E600;
+  opacity: 1;
+  font-size: 10px;
+  margin: 0;
+  font-family: MassEffect;
 }
