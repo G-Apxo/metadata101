@@ -609,7 +609,7 @@
       <rect x="1" y="1" width="66" height="278" rx="3" fill="none"/>
     </g>
     <rect id="Rectangle_49" data-name="Rectangle 49" width="59" height="262" rx="4" transform="translate(1308 966) rotate(-90)" fill="#fff"/>
-    <text id="Powered_By" data-name="Powered By" transform="translate(1512 920)" fill="#de007e" font-size="16" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-52.52" y="0">Powered By</tspan></text>
+    <text id="Powered_By" data-name="Powered By" transform="translate(1512 920)" fill="#de007e" font-size="16" font-family=" Montserrat Alternates" font-weight="800"><tspan x="-52.52" y="0">Powered By</tspan></text>
     <g id="Group_45" data-name="Group 45" transform="translate(1336.325 934.161)">
       <g id="Group_41" data-name="Group 41" transform="translate(0 0)">
         <path id="Path_209" data-name="Path 209" d="M90.692,194a.763.763,0,1,0,.718.805A.762.762,0,0,0,90.692,194Z" transform="translate(-89.887 -178.538)"/>
