@@ -1962,7 +1962,7 @@ textarea.form-control {
   border: 1px solid black;
 }
 .bgbanner{
-  background-image: url('/images/bannersecond.svg');
+  background-image: url('../images/bannersecond.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position-y: center;
