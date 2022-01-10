@@ -49,7 +49,7 @@
           <line id="Line_22" data-name="Line 22" x2="780.289" transform="translate(10.668 301.753)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="1"/>
         </g>
       </g>
-      <rect id="Rectangle_32" data-name="Rectangle 32" width="154" height="4" transform="translate(975 364)" fill="#fff"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="150" height="4" transform="translate(975 364)" fill="#fff"/>
     </g>
     <text id="coming_soon" data-name="coming soon" transform="translate(975 373)" fill="#de007e" font-size="22" font-family="MontserratAlternates-Black, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">coming soon</tspan></text>
   </g>
