@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="888.186" height="416" viewBox="0 0 888.186 416">
-
+ <defs>
+    <font-face>
+      <font-face-src>
+        <font-face-uri href="../css/style.css"/>
+      </font-face-src>
+    </font-face>
+  </defs>
   <g id="Group_59" data-name="Group 59" transform="translate(-836 -332)">
     <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(836 332)" stroke="#000" stroke-width="1">
       <rect width="70" height="372" stroke="none"/>
