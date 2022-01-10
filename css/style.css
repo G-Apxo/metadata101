@@ -25,13 +25,13 @@
 /* 
 // 1. General
 */
-@font-face {font-family: "Neue Machina Ultrabold";
+@font-face {font-family: "Montserrat Alternates";
   src: url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot");
   src: url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.eot?#iefix") format("embedded-opentype"), 
   url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff2") format("woff2"), 
   url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.woff") format("woff"), 
   url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.ttf") format("truetype"),
-  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.svg#Neue Machina Ultrabold") format("svg"); 
+  url("http://db.onlinewebfonts.com/t/1d7e20364d1ec722b206ea329d44fbbd.svg#Montserrat Alternates") format("svg"); 
 }
 
 a {
@@ -39,31 +39,31 @@ a {
   outline: none;
 }
 #Access_New_Levels_Of_Liquidity{
-  font: normal normal 800 110px/110px "Neue Machina Ultrabold";
+  font: normal normal 800 110px/110px "Montserrat Alternates";
 }
 .firsth1{
-font: normal normal 800 110px/110px "Neue Machina Ultrabold";
+font: normal normal 800 110px/110px "Montserrat Alternates";
 letter-spacing: 0px;
 color: #000000;
 opacity: 1;
 line-height: 15vh;
 }
 .firsth2{
-  font: normal normal 800 98px/109px "Neue Machina Ultrabold";
+  font: normal normal 800 98px/109px "Montserrat Alternates";
   letter-spacing: 0px;
   color: #000000;
   opacity: 1;
   line-height: 9vh;
 }
 .firsth3{
-    font: normal normal 800 79px/109px "Neue Machina Ultrabold";
+    font: normal normal 800 79px/109px "Montserrat Alternates";
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
     line-height: 9vh;
 }
 body {
-  font-family: "Neue Machina Ultrabold";
+  font-family: "Montserrat Alternates";
   color: #3b3950;
   background: #ffffff;
   font-weight: 500;
@@ -75,7 +75,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Neue Machina Ultrabold";
+  font-family: "Montserrat Alternates";
   font-weight: 700;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   color: #3b3950;
   text-decoration: none;
-  font-family: "Neue Machina Ultrabold";
+  font-family: "Montserrat Alternates";
 }
 
 .navbar-custom {
@@ -2009,7 +2009,7 @@ textarea.form-control {
   border-right: none;
 }
 .bgbanner{
-  font-family: "Neue Machina Ultrabold";
+  font-family: "Montserrat Alternates";
   background-image: url('../images/bannersecond.svg');
   background-size: contain;
   background-repeat: no-repeat;
