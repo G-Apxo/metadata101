@@ -103,7 +103,8 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .logo-dark {
-  width: 84px;
+  height: 53px;
+  width: 100px;
 }
 .bg-logo{
   margin-right: 3px;
@@ -2032,4 +2033,7 @@ textarea.form-control {
   margin-top: 22px;
   margin-bottom: 22px;
   text-align: center;
+}
+.banner-cat{
+width: 52vh;
 }
