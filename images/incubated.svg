@@ -612,7 +612,7 @@
       <rect width="68" height="280" rx="4" stroke="none"/>
       <rect x="1" y="1" width="66" height="278" rx="3" fill="none"/>
     </g>
-    <rect id="Rectangle_35" data-name="Rectangle 35" width="59" height="261" rx="4" transform="translate(998 966) rotate(-90)" fill="#fff"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="59" height="261" rx="4" transform="translate(998 966) rotate(-90)" fill="#F8F7F4"/>
     <text id="Incubated_By" data-name="Incubated By" transform="translate(1194 920)" fill="#ECBD00" font-size="16" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-59.088" y="0">Incubated By</tspan></text>
     <g id="Group_42" data-name="Group 42" transform="translate(1023.203 934.161)">
       <g id="Group_39" data-name="Group 39" transform="translate(62.733 4.858)">
