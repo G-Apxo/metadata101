@@ -609,7 +609,7 @@
     </style>
 </defs>
   <g id="Group_214" data-name="Group 214" transform="translate(-836 -320)">
-    <rect id="Rectangle_20" data-name="Rectangle 20" width="70" height="400" transform="translate(836 305)" fill="#202020"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="70" height="400" transform="translate(836 305)" fill="#2D1000"/>
     <text id="Access_New_Levels_Of_Liquidity" data-name="Access New Levels Of Liquidity" transform="translate(1286 735)" fill="#ecbd00" font-size="22" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-weight="700"><tspan x="0" y="0">Access New Levels Of Liquidity</tspan></text>
     <text id="安定した工具投資" transform="translate(889 691) rotate(-90)" fill="#ecbd00" font-size="46" font-family="MontserratAlternates-Bold, Montserrat Alternates" font-weight="600"><tspan x="0" y="0">安定した工具投資</tspan></text>
     <g id="Group_58" data-name="Group 58" transform="translate(906.471 364)">
@@ -659,8 +659,8 @@
     </g>
     <text id="coming_soon" data-name="coming soon" transform="translate(1002 373)" fill="#ecbd00" font-size="22" font-family="MontserratAlternates-Black, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">coming soon</tspan></text>
     <path id="Icon_awesome-telegram-plane" data-name="Icon awesome-telegram-plane" d="M14.737,5.656l-2.23,10.517c-.168.742-.607.927-1.231.577l-3.4-2.5-1.64,1.577a.853.853,0,0,1-.683.333L5.8,12.7l6.3-5.691c.274-.244-.059-.379-.426-.135l-7.786,4.9L.535,10.724c-.729-.228-.742-.729.152-1.079L13.8,4.594C14.4,4.366,14.935,4.729,14.737,5.656Z" transform="translate(1771.944 556.744)" fill="#fff"/>
-    <text id="a_stable" data-name="a stable" transform="translate(998 469)" fill="#1a1a1a" font-size="154" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">a stable</tspan></text>
-    <text id="DeFi_tool" data-name="DeFi tool" transform="translate(998 592)" fill="#1a1a1a" font-size="137" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">DeFi tool</tspan></text>
-    <text id="investment" transform="translate(1000 703)" fill="#1a1a1a" font-size="109" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">investment</tspan></text>
+    <text id="a_stable" data-name="a stable" transform="translate(998 469)" fill="#2D1000" font-size="154" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">a stable</tspan></text>
+    <text id="DeFi_tool" data-name="DeFi tool" transform="translate(998 592)" fill="#2D1000" font-size="137" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">DeFi tool</tspan></text>
+    <text id="investment" transform="translate(1000 703)" fill="#2D1000" font-size="109" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="0" y="0">investment</tspan></text>
   </g>
 </svg>
