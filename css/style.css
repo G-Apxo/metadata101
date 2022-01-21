@@ -42,7 +42,7 @@ font-size: 17vh;
 font-family: "Montserrat Alternates";
 font-weight: 800;
 letter-spacing: 0px;
-color: #000000;
+color: #1A1A1A;
 opacity: 1;
 line-height: 16vh;
 }
@@ -51,7 +51,7 @@ line-height: 16vh;
   font-family: "Montserrat Alternates";
   font-weight: 800;
   letter-spacing: 0px;
-  color: #000000;
+  color: #1A1A1A;
   opacity: 1;
   line-height: 9vh;
 }
@@ -60,7 +60,7 @@ line-height: 16vh;
     font-family: "Montserrat Alternates";
     font-weight: 800;
     letter-spacing: 0px;
-    color: #000000;
+    color: #1A1A1A;
     opacity: 1;
     line-height: 9vh;
 }
@@ -105,9 +105,13 @@ h1, h2, h3, h4, h5, h6 {
   background-color: transparent;
 }
 .logo-dark {
-  height: 60px;
-  width: 100px;
+  /* width: 80%; */
   margin-left: 1vh;
+}
+.bg-right{
+  background-image: url(../images/rightlines.svg);
+  border-right: none !important;
+  border-bottom: 1px solid black;
 }
 .bg-logo{
   margin-right: 3px;
@@ -1998,13 +2002,14 @@ textarea.form-control {
   padding-right: 50px;
 }
 .offgrid-height{
-  height: 82px;
+  height: 100px;
 }
 .border-column{
   border: 1px solid black;
 }
 .border-column-header-cat-top{
   border: none;
+  border-bottom: 1px solid;
 }
 .border-column-costume{
   border-left: none;
@@ -2053,6 +2058,7 @@ width: 52vh;
 }
 .cat-banner-border{
   border-bottom: none;
+  border-top: none;
 }
 .text-logo{
   text-align: center;
