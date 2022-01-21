@@ -2029,14 +2029,14 @@ textarea.form-control {
 }
 .bgbanner{
   font-family: "Montserrat Alternates";
-  background-image: url('../images/BKGsecond.svg');
+  background-image: url('../images/bgknew.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position-y: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 104%;
+  width: 104.6%;
   height: 100%;
   position: absolute;
   left: -2vw;
