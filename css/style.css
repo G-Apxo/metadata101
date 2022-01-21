@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .logo-dark {
   /* width: 80%; */
-  margin-left: 1vh;
+  margin-left: -1vh;
 }
 .bg-right{
   background-image: url(../images/rightlines.svg);
