@@ -67,7 +67,7 @@ line-height: 16vh;
 body {
   font-family: "Montserrat Alternates";
   color: #3b3950;
-  background: #ffffff;
+  background: #F8F7F4;
   font-weight: 500;
   overflow: hidden;
 }
@@ -1265,7 +1265,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
   align-items: center;
-  background:#F8F7F4 ;
+  background:#F8F7F4;
 }
 
 #preloader #status {
