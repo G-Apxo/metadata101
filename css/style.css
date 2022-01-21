@@ -111,7 +111,6 @@ h1, h2, h3, h4, h5, h6 {
 .bg-right{
   background-image: url(../images/rightlines.svg);
   border-right: none !important;
-  border-bottom: 1px solid black;
 }
 .bg-logo{
   margin-right: 3px;
@@ -2009,12 +2008,18 @@ textarea.form-control {
 .offgrid-height{
   height: 6vw;
 }
+.soc-border{
+  border-left: 1px solid black;
+}
 .border-column{
   border: 1px solid black;
 }
 .border-column-header-cat-top{
   border: none;
-  border-bottom: 1px solid;
+}
+.border-column-banner-top{
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 .border-column-costume{
   border-left: none;
