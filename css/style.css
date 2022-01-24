@@ -2139,3 +2139,17 @@ circle:nth-of-type(4) {
     transform: rotate(360deg);
  }
 }
+.mobileflow {
+  display: none;
+}
+@media only screen and (max-width: 575px) {
+  body {
+    overflow: scroll;
+  }
+  .mobileflow {
+    display: block;
+  }
+  .webflow {
+    display: none;
+  }
+}
