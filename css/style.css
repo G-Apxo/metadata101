@@ -2027,6 +2027,9 @@ textarea.form-control {
 .border-column-costume-two{
   border-right: none;
 }
+.mobileflow{
+  overflow: scroll !important;
+}
 .bgbanner{
   font-family: "Montserrat Alternates";
   background-image: url('../images/bgknew.svg');
@@ -2051,6 +2054,13 @@ textarea.form-control {
   position: absolute;
   left: -17px;
   width: 26%;
+}
+.socicons-mob{
+  position: absolute;
+  top: -11px;
+}
+.border-banner-mobile{
+  border-top: 1px solid black;
 }
 .mid-align{
   margin-top: 22px;
