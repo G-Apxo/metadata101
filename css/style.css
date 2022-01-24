@@ -2059,9 +2059,9 @@ textarea.form-control {
   position: absolute;
   top: -11px;
 }
-.border-banner-mobile{
+/* .border-banner-mobile{
   border-top: 1px solid black;
-}
+} */
 .mid-align{
   margin-top: 22px;
   margin-bottom: 22px;
@@ -2152,4 +2152,11 @@ circle:nth-of-type(4) {
   .webflow {
     display: none;
   }
+}
+.container{
+  padding-left: 33px;
+  padding-right: 33px;
+}
+.border-column-mobile{
+  border-bottom: 1px solid black;
 }
