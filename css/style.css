@@ -2177,6 +2177,7 @@ circle:nth-of-type(4) {
 }
 .btn-custom-mobile{
   background:#ECBD00;
+  font-weight:800;
   max-width: 317px;
   width: 100%;
   font-size: 14px;
