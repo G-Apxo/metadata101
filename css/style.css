@@ -2170,6 +2170,9 @@ circle:nth-of-type(4) {
   height: 72px;
   font-size: 1vw !important;
   font-family: "Montserrat Alternates";
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 .btn-custom-mobile{
@@ -2178,6 +2181,9 @@ circle:nth-of-type(4) {
   width: 100%;
   font-size: 14px;
   font-family: "Montserrat Alternates";
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .brand-icons{
   padding-top: 22px;
