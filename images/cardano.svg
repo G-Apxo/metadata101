@@ -612,7 +612,7 @@
     <rect x="1" y="1" width="59" height="250" rx="3" fill="none"/>
   </g>
   <rect id="Rectangle_168" data-name="Rectangle 168" width="235" height="51" fill="#f8f7f4"/>
-  <text id="Powered_By" data-name="Powered By" transform="translate(180 13)" fill="#292929" font-size="13" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-42.673" y="0">Powered By</tspan></text>
+  <text id="Powered_By" data-name="Powered By" transform="translate(180 13)" fill="#292929" font-size="13" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-35.673" y="0">Powered By</tspan></text>
   <g id="CF-Logo-Full-Blue-RGB" transform="translate(31.818 14.043)">
     <path id="Path_607" data-name="Path 607" d="M376.163,594.37a1.1,1.1,0,1,0,1.036,1.161A1.1,1.1,0,0,0,376.163,594.37Z" transform="translate(-375.001 -572.074)" fill="#0e0f0f"/>
     <path id="Path_608" data-name="Path 608" d="M449.467,585a3.408,3.408,0,0,0,3.2,3.59c.066,0,.131.006.2.006a3.4,3.4,0,1,0-3.4-3.6Z" transform="translate(-435.623 -561.831)" fill="#0e0f0f"/>
