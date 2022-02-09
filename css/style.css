@@ -2172,6 +2172,13 @@ circle:nth-of-type(4) {
   font-family: "Montserrat Alternates";
 
 }
+.btn-custom-mobile{
+  background:#ECBD00;
+  max-width: 317px;
+  width: 100%;
+  font-size: 14px;
+  font-family: "Montserrat Alternates";
+}
 .brand-icons{
   padding-top: 22px;
   padding-bottom: 22px;
