@@ -618,7 +618,7 @@
       <rect x="1" y="1" width="33" height="139" rx="3" fill="none"/>
     </g>
     <rect id="Rectangle_177" data-name="Rectangle 177" width="130" height="29" transform="translate(0.006)" fill="#f8f7f4"/>
-    <text id="Built_On" data-name="Built On" transform="translate(104.006 6)" fill="#292929" font-size="6" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-13.191" y="0">Built On</tspan></text>
+    <text id="Built_On" data-name="Built On" transform="translate(104.006 6)" fill="#292929" font-size="6" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-4.191" y="0">Built On</tspan></text>
     <g id="Group_217" data-name="Group 217" transform="translate(18.014 15.452)">
       <g id="Group_216" data-name="Group 216" transform="translate(0 0)" clip-path="url(#clip-path)">
         <path id="Path_655" data-name="Path 655" d="M63.5,8.062l-1.606,3.181q-.081.161-.164.322c-.387.757-.525.821-1.378.713-.236-.03-.3-.2-.387-.359-.616-1.187-1.227-2.376-1.844-3.562-.059-.113-.08-.257-.225-.322-.107.132-.056.284-.057.423,0,1.563-.013,3.127,0,4.69,0,.381-.113.511-.5.507-1.15-.009-1.15.006-1.15-1.137q0-3.969,0-7.938c0-.558,0-.569.556-.562,1.207.016.894-.175,1.428.881.8,1.575,1.564,3.164,2.349,4.745.062.124.079.331.251.324s.18-.211.242-.337c.838-1.718,1.681-3.434,2.5-5.161a.685.685,0,0,1,.735-.462c1.182.039,1.018-.148,1.021,1.028.008,2.686,0,5.372,0,8.058,0,.551,0,.551-.562.553-1.112,0-1.112,0-1.112-1.087V8.081l-.1-.019" transform="translate(-27.723 -1.978)" fill="#070707"/>
