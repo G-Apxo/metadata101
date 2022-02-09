@@ -2171,6 +2171,7 @@ circle:nth-of-type(4) {
   font-family: "Montserrat Alternates";
   display: flex;
   justify-content: center;
+  font-weight:800;
   align-items: center;
 
 }
