@@ -2163,3 +2163,11 @@ circle:nth-of-type(4) {
 .soc_hov:hover{
   fill: #ECBD00;
 }
+.btn-custom{
+  background:#ECBD00;
+  width: 317px;
+  height: 72px;
+  font-size: 22px !important;
+  font-family: "Montserrat Alternates";
+
+}
