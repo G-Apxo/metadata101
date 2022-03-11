@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="39" viewBox="0 0 145 39">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_181" data-name="Rectangle 181" width="26.357" height="26.357" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_241" data-name="Group 241" transform="translate(-38 -632)">
+    <g id="Group_226" data-name="Group 226" transform="translate(37.994 632)">
+      <g id="Rectangle_176" data-name="Rectangle 176" transform="translate(1.006 39) rotate(-90)" fill="none" stroke="#ecbd00" stroke-width="2">
+        <rect width="35" height="144" rx="4" stroke="none"/>
+        <rect x="1" y="1" width="33" height="142" rx="3" fill="none"/>
+      </g>
+      <rect id="Rectangle_177" data-name="Rectangle 177" width="133" height="29" transform="translate(0.006)" fill="#f8f7f4"/>
+      <text id="Built_On" data-name="Built On" transform="translate(107.006 6)" fill="#292929" font-size="6" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-13.191" y="0">Built On</tspan></text>
+    </g>
+    <g id="Group_237" data-name="Group 237" transform="translate(6078.459 -2881.925)">
+      <text id="HederaHashgraph" transform="translate(-5998.918 3536.925)" font-size="10" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Hedera</tspan><tspan y="0" font-family="Helvetica" font-weight="400">Hashgraph</tspan></text>
+      <g id="Group_231" data-name="Group 231" transform="translate(-6030 3518.925)">
+        <g id="Group_230" data-name="Group 230" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_672" data-name="Path 672" d="M13.178.066A13.178,13.178,0,1,0,22.5,3.926,13.18,13.18,0,0,0,13.178.066" transform="translate(0 -0.066)"/>
+          <path id="Path_673" data-name="Path 673" d="M25.231,25.228H23.558V21.67H16.191v3.558H14.517V13.69h1.674v3.472h7.367V13.69h1.673ZM16.27,20.338h7.367V18.5H16.27Z" transform="translate(-6.696 -6.35)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

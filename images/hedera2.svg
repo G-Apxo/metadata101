@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="328" height="69" viewBox="0 0 328 69">
+  <g id="Group_240" data-name="Group 240" transform="translate(-1329 -905)">
+    <g id="Rectangle_182" data-name="Rectangle 182" transform="translate(1341 974) rotate(-90)" fill="none" stroke="#ecbd00" stroke-width="4">
+      <rect width="61" height="316" rx="4" stroke="none"/>
+      <rect x="2" y="2" width="57" height="312" rx="2" fill="none"/>
+    </g>
+    <g id="Group_222" data-name="Group 222" transform="translate(-115.3)">
+      <rect id="Rectangle_167" data-name="Rectangle 167" width="309" height="51" transform="translate(1444.3 905)" fill="#f8f7f4"/>
+      <text id="Incubated_By" data-name="Incubated By" transform="translate(1692.3 918)" fill="#292929" font-size="13" font-family="MontserratAlternates-ExtraBold, Montserrat Alternates" font-weight="800"><tspan x="-48.009" y="0">Incubated By</tspan></text>
+    </g>
+    <g id="Group_236" data-name="Group 236" transform="translate(-133.231 -10.803)">
+      <g id="Group_235" data-name="Group 235" transform="translate(1576.576 935.803)">
+        <text id="Hedera" transform="translate(-5 22)" font-size="21" font-family="Helvetica"><tspan x="0" y="0">Hedera</tspan></text>
+        <text id="Starter" transform="translate(68.655 22.01)" font-size="21" font-family="Helvetica"><tspan x="0" y="0">Sta</tspan><tspan y="0" letter-spacing="0.022em">r</tspan><tspan y="0" letter-spacing="-0.012em">t</tspan><tspan y="0">er</tspan></text>
+      </g>
+      <path id="Path_674" data-name="Path 674" d="M374.811,48.606a24.3,24.3,0,1,0-24.3-24.3,24.3,24.3,0,0,0,24.3,24.3m.352-27.38a7.913,7.913,0,0,0,7.911-7.724h2.363V33.849h-2.361v-.012a7.913,7.913,0,0,0-15.826,0v.012h-2.16V13.5h2.163a7.911,7.911,0,0,0,7.91,7.724" transform="translate(1156.052 925.803)" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

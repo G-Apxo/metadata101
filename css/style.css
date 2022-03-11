@@ -26,6 +26,11 @@
 // 1. General
 */
 @font-face {
+  font-family: Aeroport;
+  src: url(../fonts/Aeroport-Bold.ttf);
+}
+
+@font-face {
   font-family: MassEffect;
   src: url(../fonts/me123.ttf);
 }
