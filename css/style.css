@@ -29,7 +29,14 @@
   font-family: Aeroport;
   src: url(../fonts/Aeroport-Bold.ttf);
 }
-
+@font-face {
+  font-family: AeroportRegular;
+  src: url(../fonts/Aeroport-Medium.ttf);
+}
+@font-face {
+  font-family: AeroportLight;
+  src: url(../fonts/Aeroport-Light.ttf);
+}
 @font-face {
   font-family: MassEffect;
   src: url(../fonts/me123.ttf);
